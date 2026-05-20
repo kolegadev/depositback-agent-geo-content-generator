@@ -1,0 +1,18 @@
+{
+  "workflow_id": "depositback-agent-geo-content-generator-default",
+  "version": "1.0.0",
+  "agent": "geo-content-generator",
+  "created": "2026-05-20T17:41:18.700566",
+  "description": "Default health-check workflow for Geo Content Generator",
+  "steps": [
+    {
+      "id": "health_check",
+      "skill": "noop",
+      "params": {
+        "message": "Geo Content Generator is operational"
+      }
+    }
+  ],
+  "on_success": "Write result to data/outbox/",
+  "on_failure": "Update state.json with error status"
+}
