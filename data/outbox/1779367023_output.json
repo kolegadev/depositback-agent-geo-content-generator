@@ -1,0 +1,13 @@
+{
+  "agent": "geo-content-generator",
+  "agent_id": "7",
+  "manifest_id": "artifact-1779367022",
+  "timestamp": "2026-05-21T12:37:03.533220+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "error",
+      "error": "Error code: 404 - {'error': {'message': 'Not found the model moonshot/kimi-k2.6 or Permission denied', 'type': 'resource_not_found_error'}}"
+    }
+  ]
+}
