@@ -1,0 +1,13 @@
+{
+  "agent": "geo-content-generator",
+  "agent_id": "7",
+  "manifest_id": "artifact-1779367465",
+  "timestamp": "2026-05-21T12:44:26.920918+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "error",
+      "error": "Error code: 400 - {'error': {'message': 'invalid temperature: only 1 is allowed for this model', 'type': 'invalid_request_error'}}"
+    }
+  ]
+}
