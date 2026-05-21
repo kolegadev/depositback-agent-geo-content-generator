@@ -1,0 +1,13 @@
+{
+  "agent": "geo-content-generator",
+  "agent_id": "7",
+  "manifest_id": "artifact-1779366105",
+  "timestamp": "2026-05-21T12:21:47.751608+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "error",
+      "error": "Error code: 401 - {'error': {'message': 'Invalid Authentication', 'type': 'invalid_authentication_error'}}"
+    }
+  ]
+}
