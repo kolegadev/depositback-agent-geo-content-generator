@@ -1,0 +1,37 @@
+{
+  "agent": "geo-content-generator",
+  "agent_id": "7",
+  "manifest_id": "artifact-1779367650",
+  "timestamp": "2026-05-21T12:47:56.916806+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Demand Letter: How to Get Your Refund When Your Landlord Won't Pay",
+        "meta_description": "Learn how to write a security deposit demand letter and get your refund fast. Free template included when your landlord won't return your deposit.",
+        "content_outline": [
+          "Introduction: How to Get Your Security Deposit Back",
+          "What Is a Security Deposit Demand Letter?",
+          "Why You Need a Demand Letter for Security Deposit Disputes",
+          "How to Write a Security Deposit Letter to Your Landlord",
+          "Security Deposit Demand Letter Template",
+          "Security Deposit Return Letter vs. Security Deposit Refund Letter",
+          "State-by-State Deadlines: When Landlords Must Pay",
+          "What to Do If Your Landlord Ignores Your Letter to Landlord About Security Deposit",
+          "How DepositBack Automates Your Demand Letter"
+        ],
+        "key_points": [
+          "A formal security deposit demand letter is often legally required before you can sue your landlord in small claims court",
+          "Most states give landlords 14 to 60 days to return a deposit or provide an itemized deduction list",
+          "Including move-out photos, your forwarding address, and state law citations strengthens your demand letter for security deposit recovery",
+          "Using a professionally written security deposit demand letter template increases response rates and shows you understand your tenant rights",
+          "DepositBack generates state-specific security deposit letters to landlords in minutes, helping renters recover thousands in wrongfully withheld deposits"
+        ],
+        "cta": "Don't let your landlord keep what's yours. Create your state-specific security deposit demand letter in minutes with DepositBack and take the first step toward recovering your full refund.",
+        "target_audience": "US renters who have recently moved out and are waiting for a security deposit return, or whose landlord has wrongfully withheld all or part of their deposit refund",
+        "word_count_target": 800
+      }
+    }
+  ]
+}
