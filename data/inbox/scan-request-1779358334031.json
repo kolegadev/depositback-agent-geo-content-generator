@@ -1,0 +1,18 @@
+{
+  "request_id": "dispatch-6a0eda7d68f6d9b7fff352b2",
+  "agent": "depositback-agent-geo-content-generator",
+  "agent_id": 1,
+  "workflow": {
+    "steps": [
+      {
+        "id": "health_check",
+        "skill": "noop",
+        "params": {
+          "message": "geo content generator operational"
+        }
+      }
+    ]
+  },
+  "mode": "depositback",
+  "human_review_required": false
+}
