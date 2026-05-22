@@ -1,0 +1,20 @@
+{
+  "request_id": "dispatch-6a101eab6fb31fe58f5b1a0d",
+  "agent": "depositback-agent-geo-content-generator",
+  "agent_id": 1,
+  "workflow": {
+    "steps": [
+      {
+        "id": "generate_geo_content",
+        "skill": "generate_content",
+        "params": {
+          "task": "generate_state_landing_pages",
+          "keywords": [],
+          "instructions": "Create state-specific SEO landing page content for DepositBack."
+        }
+      }
+    ]
+  },
+  "mode": "content_production",
+  "human_review_required": false
+}
