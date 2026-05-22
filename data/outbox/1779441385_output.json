@@ -1,0 +1,32 @@
+{
+  "agent": "geo-content-generator",
+  "agent_id": "7",
+  "manifest_id": "unknown",
+  "timestamp": "2026-05-22T09:16:25.655425+00:00",
+  "results": [
+    {
+      "step": "generate_geo_content",
+      "status": "success",
+      "output": {
+        "title": "California Security Deposit Recovery: Demand Letter Service | DepositBack",
+        "meta_description": "Still waiting on your California security deposit? Create a state-specific demand letter with DepositBack and recover what's yours. Get started free.",
+        "content_outline": [
+          "California Security Deposit Laws: The 21-Day Rule and Your Rights",
+          "Top Reasons California Landlords Wrongfully Withhold Deposits",
+          "How DepositBack Builds Your State-Specific Demand Letter in Minutes",
+          "What Happens After You Send Your California Demand Letter",
+          "California Security Deposit FAQs for Recently Moved-Out Renters"
+        ],
+        "key_points": [
+          "California landlords must return your security deposit within 21 days or provide a detailed, itemized deduction statement",
+          "Under California Civil Code \u00a7 1950.5, bad faith withholding can entitle renters to statutory damages up to twice the deposit amount",
+          "DepositBack auto-generates a California-compliant demand letter citing the exact state statutes your landlord violated",
+          "No lawyer needed\u2014renters can create, download, and send a professional demand letter in under 5 minutes"
+        ],
+        "cta": "Generate Your California Security Deposit Demand Letter Now\u2014It Only Takes 3 Minutes",
+        "target_audience": "California renters who have moved out within the last 1-3 years and have not received their full security deposit back\u2014or received unjust deductions\u2014from their former landlord",
+        "word_count_target": 800
+      }
+    }
+  ]
+}
