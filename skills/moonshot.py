@@ -6,7 +6,7 @@ Moonshot Kimi K2.6 skill — OpenAI-compatible client.
 import os
 from openai import OpenAI
 
-BASE_URL = os.getenv("MOONSHOT_BASE_URL", "https://api.moonshot.cn/v1")
+BASE_URL = os.getenv("MOONSHOT_BASE_URL", "https://api.moonshot.ai/v1")
 API_KEY = os.getenv("MOONSHOT_API_KEY")
 MODEL = os.getenv("MOONSHOT_MODEL", "kimi-k2.6")
 
@@ -25,8 +25,8 @@ def _get_client() -> OpenAI:
 def run(
     system_prompt="You are a helpful assistant.",
     user_prompt="",
-    temperature=0.7,
-    max_tokens=2048,
+    temperature=1.0,
+    max_tokens=4096,
     **kwargs,
 ):
     client = _get_client()
