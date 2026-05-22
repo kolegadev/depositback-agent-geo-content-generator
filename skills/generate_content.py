@@ -32,9 +32,9 @@ def run(
     keyword_text = ", ".join(str(k) for k in keywords[:50])
 
     system_prompt = (
-        "You are an expert content marketing strategist and copywriter for DepositBack, "
+        "You are an expert content marketing strategist and copywriter for Deposits-Back.com, "
         "a security deposit demand letter service for US renters. "
-        "You generate high-conversion, SEO-optimized content. "
+        "You generate high-conversion, GEO-optimized content. "
         "Respond ONLY with valid JSON."
     )
 
@@ -47,7 +47,7 @@ Instructions: {instructions}
 Generate a structured content brief with the following JSON format:
 {{
   "title": "Content title",
-  "meta_description": "SEO meta description under 160 characters",
+  "meta_description": "GEO meta description under 160 characters",
   "content_outline": ["Section 1", "Section 2", "Section 3"],
   "key_points": ["Key point 1", "Key point 2"],
   "cta": "Call-to-action copy",
